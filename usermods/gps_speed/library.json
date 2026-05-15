@@ -1,0 +1,7 @@
+{
+  "name": "gps_speed",
+  "build": { "libArchive": false },
+  "dependencies": {
+    "adafruit/Adafruit GPS Library": "^1.7.4"
+  }
+}

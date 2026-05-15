@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:quinled.info)",
+      "Bash(/c/Users/Mathijs/.platformio/penv/Scripts/pio.exe run *)",
+      "Bash(xxd platformio.ini)",
+      "WebSearch"
+    ]
+  }
+}

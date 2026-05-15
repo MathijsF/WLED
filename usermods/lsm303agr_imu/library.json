@@ -1,0 +1,9 @@
+{
+  "name": "lsm303agr_imu",
+  "build": { "libArchive": false },
+  "dependencies": {
+    "adafruit/Adafruit LSM303 Accel": "^1.1.0",
+    "adafruit/Adafruit BusIO": "^1.14.5",
+    "adafruit/Adafruit Unified Sensor": "^1.1.4"
+  }
+}
